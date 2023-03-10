@@ -3,4 +3,6 @@ client/.next
 client/package-lock.json
 auth/node_modules
 auth/package-lock.json
+tickets/node_modules
+tickets/package-lock.json
 skaffold.yaml

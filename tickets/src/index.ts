@@ -9,6 +9,7 @@ const start = async () => {
         throw new Error('MONGO_URI is not defined')
     }
     try {
+        
         await mongoose.connect(process.env.MONGO_URI)
         console.log('connected to mdb');
         
