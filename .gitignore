@@ -5,4 +5,8 @@ auth/node_modules
 auth/package-lock.json
 tickets/node_modules
 tickets/package-lock.json
+orders/node_modules
+orders/package-lock.json
+nats-test/node_modules
+nats-test/package-lock.json
 skaffold.yaml
